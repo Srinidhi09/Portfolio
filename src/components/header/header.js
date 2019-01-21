@@ -23,7 +23,7 @@ class Header extends Component {
       </header>
       <section id="intro" style={{background: 'url(img/home.jpg) center center no-repeat', backgroundSize: 'cover'}} className="intro-section pb-2">
         <div className="container text-center" data-animate="fadeIn">
-          <h2 className="text-shadow mb-5">Hello!</h2>
+          <h3 className="text-shadow mb-5">Hello!</h3>
           <h1 className="text-shadow mb-5 font-weight-light">I'm {portfolioData.name}</h1>
           <h3 className="text-shadow mb-5">{portfolioData.role}</h3>
         </div>
