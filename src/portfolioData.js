@@ -1,5 +1,5 @@
 let portfolioData = {
-    "imagebaseurl":"https://techonoeticsclub.github.io/",
+    "welcome": "Hello!",
     "name": "Srinidhi Karnati",
     "home": "Home",
     "about": "About",
