@@ -32,7 +32,7 @@ class Works extends Component {
           <div data-category="webdesign" className="reference-item col-lg-4 col-md-4">
             <div className="reference">
               <a href={portfolioData.phpformurl} target="_blank ">
-                <img src="img/php-form.jpg" alt="Php Form" className="img-fluid" />
+                <img src="img/php-form.JPG" alt="Php Form" className="img-fluid" />
                 <div className="overlay">
                   <div className="inner">
                     <h3 className="h4 reference-title">{portfolioData.phpform}</h3>
@@ -45,7 +45,7 @@ class Works extends Component {
           <div data-category="webdesign" className="reference-item col-lg-4 col-md-4">
             <div className="reference">
               <a href={portfolioData.smilesurl} target="_blank ">
-                <img src="img/smiles.jpg" alt="Smiles App" className="img-fluid" />
+                <img src="img/smiles.JPG" alt="Smiles App" className="img-fluid" />
                 <div className="overlay">
                   <div className="inner">
                     <h3 className="h4 reference-title">{portfolioData.smiles}</h3>
@@ -58,7 +58,7 @@ class Works extends Component {
           <div data-category="webdesign" className="reference-item col-lg-4 col-md-4">
             <div className="reference">
               <a href={portfolioData.todourl} target="_blank ">
-                <img src="img/todo.jpg" alt="Todo App" className="img-fluid" />
+                <img src="img/todo.JPG" alt="Todo App" className="img-fluid" />
                 <div className="overlay">
                   <div className="inner">
                     <h3 className="h4 reference-title">{portfolioData.todo}</h3>
